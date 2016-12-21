@@ -1,10 +1,6 @@
 //
 //  NSTimerEx.swift
-//  CBReflesh
-//
-//  Created by 陈超邦 on 16/2/26.
-//  Copyright © 2016年 ChenChaobang. All rights reserved.
-//
+
 
 import Foundation
 
